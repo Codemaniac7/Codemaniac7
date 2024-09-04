@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Hello,%20dev%20SeungMin&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Hi,%20dev%20SeungMin&fontSize=90&animation=fadeIn)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codemaniac7)](https://github.com/Codemaniac7/github-readme-stats)
 
