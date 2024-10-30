@@ -11,6 +11,10 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+![intellij](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
+![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
+![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 
     
 ![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
