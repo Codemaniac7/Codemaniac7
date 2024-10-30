@@ -17,25 +17,11 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 
 ```
-("안녕?")
+(꾸준하게 성장하기 위해서 노력하는 개발자입니다)
 ```
   
 
-
-# Hi there 👋
-## Hi there 👋
-
-
-**두껍게** <br>
-*기울임* <br>
-~~취소선~~ <br>
-
 * 1번
 * 2번
-
-
-  :smirk:
-  :joy:
-
 
 
