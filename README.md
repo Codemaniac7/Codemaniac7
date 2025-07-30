@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:1E3C72,100:2A5298&height=280&section=header&text=Hi,%20I'm%20SeungMin%20⚡&fontSize=48&fontAlignY=40&desc=Code,%20Create,%20Grow.&descAlignY=70&descAlign=60&animation=twinkling)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,30:764ba2,70:f093fb,100:4facfe&height=320&section=header&text=SeungMin%20Kim&fontSize=56&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Web%20Developer%20|%20Crafting%20Digital%20Experiences&descAlignY=65&descAlign=50&descSize=18&animation=fadeIn&stroke=ffffff&strokeWidth=1)
 ---
 
 ## 👨‍💻 About Me
