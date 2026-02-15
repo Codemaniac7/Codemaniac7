@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,30:764ba2,70:f093fb,100:4facfe&height=320&section=header&text=SeungMin%20Kim&fontSize=56&fontAlignY=35&fontColor=ffffff&desc=%20Full%20Stack%20Developer%20|%20IT%20Startup%20CTO&descAlignY=65&descAlign=50&descSize=18&animation=fadeIn&stroke=ffffff&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,30:764ba2,70:f093fb,100:4facfe&height=320&section=header&text=SeungMin%20Jung&fontSize=56&fontAlignY=35&fontColor=ffffff&desc=%20Full%20Stack%20Developer%20|%20IT%20Startup%20CTO&descAlignY=65&descAlign=50&descSize=18&animation=fadeIn&stroke=ffffff&strokeWidth=1)
 
 ## 👨‍💻 Strategy & Vision
 > **"기술은 비즈니스 문제를 해결하기 위한 도구여야 합니다."**
@@ -36,4 +36,4 @@
 ## ✉️ Contact & More
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://jsm77.tistory.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/승민-정-74743912b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsm1592@gmail.com)
+
