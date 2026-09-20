@@ -77,10 +77,7 @@
 
 ---
 
-## 🎯 Engineering Principles
+## 📫 Contact & More
 
-```text
-Correctness > Convenience
-Data Integrity > Temporary Workarounds
-Simple Architecture > Unnecessary Abstraction
-Production Safety > Fast but Risky Changes
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://jsm77.tistory.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/승민-정-74743912b)
